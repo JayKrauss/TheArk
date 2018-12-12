@@ -1,0 +1,81 @@
+body{
+    background-image: url('../images/storefront.jpg'); 
+    background-position:50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.imageblock{
+    background-position:50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-left: black 3px solid;
+    border-right:black 3px solid;
+}
+
+#img1{
+    height:300px;
+    width:100%;
+    background-image: url('../images/clotheswall.jpg');
+}
+#img2{
+    height:300px;
+    width:100%;
+    background-image: url('../images/angle1.jpg');
+}
+#img3{
+    height:300px;
+    width:100%;
+    background-image: url('../images/shoes.jpg');
+}
+#img4{
+    height:300px;
+    width:100%;
+    background-image: url('../images/consignment1.jpg');
+}
+#img5{
+    height:300px;
+    width:100%;
+    background-image: url('../images/consignment2.jpg');
+}
+
+.bodyblock {
+    background: rgba(255, 255, 255, 0.9);
+    height: 350px;
+    width: 100%;
+    border: black 3px solid;
+}
+
+#first{
+    margin-top: 35%;
+    height: 400px;
+}
+
+.heading {
+    font-family: 'Alice', serif;
+    font-size: 24px;
+}
+
+p{
+    font-family: 'Alice', serif;
+    font-size: 18px;
+}
+
+.furniturecarousel{
+    height:50%;
+}
+
+#map{
+    width: auto;
+    height: 300px;
+}
+
+.mapblock{
+    height: 400px;
+}
+
+.hours{
+    font-size: 16px;
+}
