@@ -79,3 +79,9 @@ p{
 .hours{
     font-size: 16px;
 }
+
+#furniturecarousel{
+    width:  100%;
+    height: auto;
+    border: black 3px solid;
+}
